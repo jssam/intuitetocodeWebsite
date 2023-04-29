@@ -311,7 +311,20 @@ function Sidenav({ color }) {
             >
               {tables}
             </span>
-              <span className="label">Tree</span>
+              <span className="label">Binary Tree</span>
+            </NavLink>
+          </Menu.Item>
+          <Menu.Item key="8">
+            <NavLink to="/bst">
+            <span
+                className="icon"
+                style={{
+                  background: page === "bst" ? color : "",
+                }}
+            >
+              {tables}
+            </span>
+              <span className="label">BST</span>
             </NavLink>
           </Menu.Item>
           <Menu.Item key="9">

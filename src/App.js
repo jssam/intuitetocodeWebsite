@@ -35,6 +35,7 @@ function App() {
           <Route exact path="/oops" component={Oops} /> 
           <Route exact path="/linkedlist" component={LinkedList} /> 
           <Route exact path="/tree" component={Tree} /> 
+          <Route exact path="/bst" component={Bst} /> 
           <Route exact path="/graph" component={Graph} /> 
           <Route exact path="/hashmap-heap" component={HashMap} /> 
           <Route exact path="/dynamic-programming" component={Dp} /> 
