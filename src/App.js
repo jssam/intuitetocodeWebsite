@@ -25,7 +25,7 @@ function App() {
       <Switch>
         
         <Main>
-        <Route exact path="/" component={DashBoard} />
+        <Route exact path="/intuitetocodeWebsite/" component={DashBoard} />
           {/* <Route exact path="/" component={()=>PilotDetails} /> */}
           <Route exact path="/getting-started" component={GetingStarted} /> 
           <Route exact path="/loops-patterns" component={Loops} /> 
