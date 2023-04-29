@@ -16,6 +16,7 @@ import Tree from "./pages/Tree";
 import Graph from "./pages/Graph";
 import HashMap from "./pages/HashMap";
 import Dp from "./pages/Dp";
+import Bst from "./pages/Bst";
 
 function App() {
   return (
