@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/intuitetocodeWebsite/static/css/main.1bae2fa9.css",
-    "main.js": "/intuitetocodeWebsite/static/js/main.428d8225.js",
+    "main.js": "/intuitetocodeWebsite/static/js/main.a46e883b.js",
     "static/js/787.ff7fc037.chunk.js": "/intuitetocodeWebsite/static/js/787.ff7fc037.chunk.js",
     "index.html": "/intuitetocodeWebsite/index.html",
     "main.1bae2fa9.css.map": "/intuitetocodeWebsite/static/css/main.1bae2fa9.css.map",
-    "main.428d8225.js.map": "/intuitetocodeWebsite/static/js/main.428d8225.js.map",
+    "main.a46e883b.js.map": "/intuitetocodeWebsite/static/js/main.a46e883b.js.map",
     "787.ff7fc037.chunk.js.map": "/intuitetocodeWebsite/static/js/787.ff7fc037.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1bae2fa9.css",
-    "static/js/main.428d8225.js"
+    "static/js/main.a46e883b.js"
   ]
 }
